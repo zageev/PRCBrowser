@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\BrowserFixed\BrowserFixed\bin\Debug\BrowserFixed.exe.config
+C:\Users\Admin\source\repos\BrowserFixed\BrowserFixed\bin\Debug\BrowserFixed.exe
+C:\Users\Admin\source\repos\BrowserFixed\BrowserFixed\bin\Debug\BrowserFixed.pdb
+C:\Users\Admin\source\repos\BrowserFixed\BrowserFixed\obj\Debug\BrowserFixed.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\BrowserFixed\BrowserFixed\obj\Debug\BrowserFixed.Form1.resources
+C:\Users\Admin\source\repos\BrowserFixed\BrowserFixed\obj\Debug\BrowserFixed.Properties.Resources.resources
+C:\Users\Admin\source\repos\BrowserFixed\BrowserFixed\obj\Debug\BrowserFixed.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\BrowserFixed\BrowserFixed\obj\Debug\BrowserFixed.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BrowserFixed\BrowserFixed\obj\Debug\BrowserFixed.exe
+C:\Users\Admin\source\repos\BrowserFixed\BrowserFixed\obj\Debug\BrowserFixed.pdb
